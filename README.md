@@ -13,16 +13,6 @@ Without API key this app can't work.
 
 This app uses third-party service API ( Open AI API ), you can generate your own API Key from the official website https://platform.openai.com/account/api-keys
 
-# Demo App
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1DMwO_yz_G0MJP_jL-1jLmRDA8-vkDVKJ/view?usp=share_link">
-    <img src="https://i.ibb.co/yf0m953/Download-apk-1.png" height="100">
-  </a>
-</p>
-
-<b>NOTE:</b> I am using my own API key in this demo apk. If my free limit ($18) is crossed, then the app can't provide response in the future.
-
 <table style="width:100%">
   <tr>
     <th>Example 1</th>
@@ -47,6 +37,3 @@ This app uses third-party service API ( Open AI API ), you can generate your own
  
 </table>
 <br>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sibananda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sibananda" /></a><a href="https://ko-fi.com/sibananda"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sibananda" /></a></p><br><br><br>
