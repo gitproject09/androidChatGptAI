@@ -103,7 +103,8 @@ class MainActivity : AppCompatActivity() {
 
         val jsonBody = JSONObject()
         try {
-            jsonBody.put("model", "text-davinci-003")
+            //jsonBody.put("model", "text-davinci-003")
+            jsonBody.put("model", "gpt-4o-mini")
             jsonBody.put("prompt", question)
             jsonBody.put("max_tokens", 4000)
             jsonBody.put("temperature", 0)
